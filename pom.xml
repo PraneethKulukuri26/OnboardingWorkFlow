@@ -5,9 +5,9 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.praneethkulukuri26</groupId>
-    <artifactId>OnboardingWorkFlow</artifactId>
-    <version>1.0.1</version>
+    <groupId>com.github.PraneethKulukuri26</groupId>
+    <artifactId>onboardingworkflow</artifactId>
+    <version>1.0.2</version>
     
     <name>ImportFlow Framework</name>
     <description>Generic, pluggable import pipeline framework — zero domain knowledge.</description>
