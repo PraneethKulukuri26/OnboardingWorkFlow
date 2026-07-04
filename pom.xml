@@ -7,7 +7,7 @@
 
     <groupId>com.github.PraneethKulukuri26</groupId>
     <artifactId>OnboardingWorkFlow</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     
     <name>ImportFlow Framework</name>
     <description>Generic, pluggable import pipeline framework — zero domain knowledge.</description>
